@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Notes App for TWS Community
 This is a simple notes app built with React and Django.
 
@@ -28,3 +29,7 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+=======
+# cloud-native-buildpack-demo
+Cloud Native Build Pack Demo
+>>>>>>> 8bd64f7b1d593d2eb9d3bfe817cd617acb003443
