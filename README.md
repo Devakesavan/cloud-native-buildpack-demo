@@ -9,7 +9,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-https://github.com/Devakesavan/cloud-native-buildpack-demo/edit/main/README.md
+https://github.com/Devakesavan/cloud-native-buildpack-demo.git
 ```
 
 2. Build the app
