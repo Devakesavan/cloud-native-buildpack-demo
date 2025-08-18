@@ -1,2 +1,2 @@
 # cloud-native-buildpack-demo
-cloud-native-buildpack-demo
+Cloud Native Build Pack Demo
