@@ -55,7 +55,7 @@ sudo apt-get install pack-cli
 #
 - Clone your code
 ```bash
-git clone https://github.com/DevMadhup/node-todo-cicd.git
+https://github.com/Devakesavan/cloud-native-buildpack-demo.git
 ```
 #
 - Go inside the directory
