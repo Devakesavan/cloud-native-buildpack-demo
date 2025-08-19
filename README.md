@@ -60,7 +60,7 @@ https://github.com/Devakesavan/cloud-native-buildpack-demo.git
 #
 - Go inside the directory
 ```bash
-cd node-todo-cicd
+cd cloud-native-buildpack-demo
 ```
 #
 - Remove Dockerfile and docker-compose file to make sure we are not using it for building the image.
