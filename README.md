@@ -21,7 +21,8 @@
 - Leverage production-ready buildpacks maintained by the community.
 
 #
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/33e00d6d-0a98-4e16-9783-e07b7a155459">
+<img width="894" alt="image" src="https://github.com/Devakesavan/cloud-native-buildpack-demo/blob/main/buildpack.png">
+
 ### Deploy NodeJS application using Cloud Native Builpacks
 
 #### Pre-requisites:
